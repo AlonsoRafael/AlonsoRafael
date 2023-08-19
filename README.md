@@ -21,7 +21,7 @@ https://devicon.dev/
 
 ##
 
-![Snake animation](https://github.com/rafaelalonsomarques/rafaelalonsomarques/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaelalonsomarques/AlonsoRafael/blob/output/github-contribution-grid-snake.svg)
 
  ##
   
@@ -35,9 +35,9 @@ https://devicon.dev/
  -->
  
  <div>
-<a href="https://github.com/rafaelalonsomarques">
-<img height="162em" src="https://github-readme-stats.vercel.app/api?username=rafaelalonsomarques&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=blue"/>
-<img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalonsomarques&layout=compact&theme=dark"/>
+<a href="https://github.com/AlonsoRafael">
+<img height="162em" src="https://github-readme-stats.vercel.app/api?username=AlonsoRafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=blue"/>
+<img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoRafael&layout=compact&theme=dark"/>
 </div> 
 <!--
 https://github.com/anuraghazra/github-readme-stats
