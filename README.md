@@ -36,7 +36,7 @@ https://devicon.dev/
  
  <div>
 <a href="https://github.com/AlonsoRafael">
-<img height="162em" src="https://github-readme-stats.vercel.app/api?username=AlonsoRafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=blue"/>
+<!--<img height="162em" src="https://github-readme-stats.vercel.app/api?username=AlonsoRafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=blue"/>-->
 <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoRafael&layout=compact&theme=dark"/>
 </div> 
 <!--
