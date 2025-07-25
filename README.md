@@ -24,7 +24,7 @@ https://devicon.dev/
 
 ##
 
-![Snake animation](https://raw.githubusercontent.com/AlonsoRafael/AlonsoRafael/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AlonsoRafael/AlonsoRafael/output/github-contribution-grid-snake-dark.svg)
 
 ##
  
