@@ -1,6 +1,6 @@
 ## BEM VINDO AO MEU GITHUB
 
-<p>Meu nome é Rafael Alonso Marques, sou estudande de Ciência da computação pela Universidade Federal de Uberlândia - UFU.<p/>
+<p>Meu nome é Rafael Alonso Marques, sou estudante de Sistemas de Informação pela Universidade Federal de Uberlândia - UFU.<p/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
@@ -13,6 +13,9 @@
   <img align="center" alt="Rafael-J" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />        
   <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Rafael-gif" height="125" width="125" src="https://media.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif">
+  <br>
+  <br>
+  <a href="https://www.linkedin.com/in/rafael-alonso-5b5099207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--
 onde pegar os icones
 https://devicon.dev/
@@ -22,13 +25,6 @@ https://devicon.dev/
 ##
 
 ![Snake animation](https://raw.githubusercontent.com/AlonsoRafael/AlonsoRafael/output/github-contribution-grid-snake.svg)
-
- ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/rafael-alonso-5b5099207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</div>
 
 ##
  
