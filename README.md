@@ -17,8 +17,10 @@
   <img align="center" alt="Rafael-n8n" height="45" width="65" src="https://raw.githubusercontent.com/AlonsoRafael/assets/main/imagem/n8n.svg">
   <br>
   <br>
-  <a href="https://www.linkedin.com/in/rafael-alonso-5b5099207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://alonsotech.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-%23252525?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  
+<a href="https://www.linkedin.com/in/rafael-alonso-5b5099207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://alonsotech.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23252525?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  
 <!--
 onde pegar os icones
 https://devicon.dev/
