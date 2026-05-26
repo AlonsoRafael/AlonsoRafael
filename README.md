@@ -15,6 +15,7 @@
   <br>
   <br>
   <a href="https://www.linkedin.com/in/rafael-alonso-5b5099207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://alonsotech.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-%23252525?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 <!--
 onde pegar os icones
 https://devicon.dev/
@@ -27,7 +28,7 @@ https://devicon.dev/
 
 ##
  
-<div>
+<div align="center">
   <a href="https://github.com/AlonsoRafael">
     <img height="162" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AlonsoRafael&layout=compact&theme=dark" alt="Top Languages" />
   </a>
