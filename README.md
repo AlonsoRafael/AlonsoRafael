@@ -27,11 +27,11 @@ https://devicon.dev/
 
 ##
  
- <div>
-<a href="https://github.com/AlonsoRafael">
-<!--<img height="162em" src="https://github-readme-stats.vercel.app/api?username=AlonsoRafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=blue"/>-->
-<img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoRafael&layout=compact&theme=dark"/>
-</div> 
+<div>
+  <a href="https://github.com/AlonsoRafael">
+    <img height="162" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AlonsoRafael&layout=compact&theme=dark" alt="Top Languages" />
+  </a>
+</div>
 <!--
 https://github.com/anuraghazra/github-readme-stats
 -->
