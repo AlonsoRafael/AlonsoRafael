@@ -7,15 +7,15 @@
 
 <div style="display: inline_block" align="center" >
   <br>
-  <img align="center" alt="Rafael-TS" height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Rafael-Java" height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="Rafael-Python" height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Rafael-Nest" height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Rafael-React" height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafael-Next" height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Rafael-Spring" height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Rafael-Supabase" height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
-  <img align="center" alt="Rafael-n8n" height="45" width="65" src="https://raw.githubusercontent.com/AlonsoRafael/assets/main/imagem/n8n.svg">
+  <img align="center" alt="Rafael-TS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Rafael-Java" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="Rafael-Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Rafael-Nest" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="Rafael-React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafael-Next" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Rafael-Spring" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Rafael-Supabase" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
+  <img align="center" alt="Rafael-n8n" width="40" src="https://raw.githubusercontent.com/AlonsoRafael/assets/main/imagem/n8n.svg">
   <br><br>
   <a href="https://www.linkedin.com/in/rafael-alonso-5b5099207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://alonsotech.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23252525?style=for-the-badge&logo=About.me&logoColor=white"></a>
