@@ -1,6 +1,10 @@
 name: Generate Space Shooter Animation
 
 on:
+  push:
+    branches:
+      - main
+      - master
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
